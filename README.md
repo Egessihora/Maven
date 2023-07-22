@@ -1,7 +1,7 @@
 ### Оглавление
 
 1. [Apach Maven - описание](#apach-maven)
-2. [Apach Maven - установка](#apach-maven-установка)
+2. [Apach Maven - установка](#apach-maven--установка)
 3. [Java Development Kit](#java-development-kit)
 4. [IntelliJ IDEA](#intellij-idea)
 
