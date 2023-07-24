@@ -167,7 +167,7 @@ ___
 \
 ✅ в разделе **Система** заходим в подраздел **О системе**
 
-[![Maven-6.png](https://i.postimg.cc/pX9SsZ9H/Maven-6.png)](https://postimg.cc/fJN5LYj2)
+[![Maven-6.png](https://i.postimg.cc/W1VxXT80/Maven-6.png)](https://postimg.cc/0bttNgLN)
 \
 \
 ✅ выбираем **Дополнительные параметры системы**
