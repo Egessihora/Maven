@@ -194,6 +194,47 @@ ___
 ⬆️[Оглавление](#оглавление)
 ___
 ## Java Development Kit
+1. Для установки Java открываем сайт <www.oracle.com> и заходим в раздел **Products**
+
+[![Java-1.png](https://i.postimg.cc/tgQwvPjS/Java-1.png)](https://postimg.cc/QFmfHFV1)
+\
+\
+2. В нижнем левом углу выбираем **Java**
+
+[![Java-2.png](https://i.postimg.cc/x8JPSxGK/Java-2.png)](https://postimg.cc/H8mMwthx)
+\
+\
+3. В верхнем правом углу выбираем **Download Java**
+
+[![Java-3.png](https://i.postimg.cc/Gm2v0Sc9/Java-3.png)](https://postimg.cc/PPgCYyvk)
+\
+\
+4. Выбираем нужную версию Java, операционной системы и файла для скачиваения
+
+[![Java-4.png](https://i.postimg.cc/G2SZQfhY/Java-4.png)](https://postimg.cc/Q914N07x)
+\
+\
+Установка у Java стандартная, просто действуем, следуя инструкции.
+\
+\
+5. Давайте проверим, что Java и Maven установились корректно. Для этого в командной строке ввёдем по-очереди команды:
+
+```
+java -version
+```
+и 
+
+```
+maven -version
+```
+
+\
+Если всё получилось, Windows покажет информацию об установленных версиях Java и Maven. 
+В противном случае будет информация о том, что один из них (или оба) не является командой или программой.
+
+[![Maven-11.png](https://i.postimg.cc/281pXrPt/Maven-11.png)](https://postimg.cc/dLcShPQR)
+
+
 
 
 
