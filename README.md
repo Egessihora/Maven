@@ -194,7 +194,7 @@ ___
 ⬆️[Оглавление](#оглавление)
 ___
 ## Java Development Kit
-1. Для установки Java открываем сайт <www.oracle.com> и заходим в раздел **Products**
+1. Для установки Java открываем сайт www.oracle.com и заходим в раздел **Products**
 
 [![Java-1.png](https://i.postimg.cc/tgQwvPjS/Java-1.png)](https://postimg.cc/QFmfHFV1)
 \
