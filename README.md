@@ -202,6 +202,7 @@ ___
 2. В нижнем левом углу выбираем **Java**
 
 [![Java-2.png](https://i.postimg.cc/C1WFc5cw/Java-2.png)](https://postimg.cc/R6L5FSrY)
+
 \
 \
 3. В верхнем правом углу выбираем **Download Java**
@@ -232,7 +233,7 @@ maven -version
 Если всё получилось, Windows покажет информацию об установленных версиях Java и Maven. 
 В противном случае будет информация о том, что один из них (или оба) не является командой или программой.
 
-[![Java-5.png](https://i.postimg.cc/qBXYbgbQ/Java-5.png)](https://postimg.cc/nMr0MVtQ)
+[![Maven-11.png](https://i.postimg.cc/rpJXHkkR/Maven-11.png)](https://postimg.cc/Z9CM9X0J)
 \
 \
 ⬆️[Оглавление](#оглавление)
