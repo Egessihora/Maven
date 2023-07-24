@@ -133,8 +133,11 @@ ___
 1. Чтобы установить Maven необходимо:
 
 ✅ перейти на [официальный сайт](https://maven.apache.org/)
+
 ✅ выбрать раздел **Download**
+
 ✅ скачать на компьютер файл для установки. Самый простой вариант - Binary zip archive (чистый Maven без плагинов)
+
 ✅ распаковать в любую удобную директорию
   
 [![Maven-1.png](https://i.postimg.cc/vZLThv7Z/Maven-1.png)](https://postimg.cc/qNqpMyZP)
