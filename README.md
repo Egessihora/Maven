@@ -328,22 +328,22 @@ ___
 
 Скорее всего после сообщения об успешной сборке проекта мы также увидим и предупреждения (WARNINGS) о том, что используется старый плагин Maven.
 
-[![Maven-project-2.png](https://i.postimg.cc/BnQYScBC/Maven-project-2.png)](https://postimg.cc/D8Hd5GDW)
+[![Maven-project-2.png](https://i.postimg.cc/CxM0SB1V/Maven-project-2.png)](https://postimg.cc/gn7QK08M)
 
 Не пугаемся, это не ошибка, а всего лишь предупреждение. Но тем не менее меры для дальнейшей работы лучше предпринять.
 
 Заходим в настройки (шестерёнку) в правом верхнем углу, еще раз нажимаем на "settings". В поисковой строке пишем "maven" нажимаем в получившемся списке на Maven.
 
-[![Maven-project-3.png](https://i.postimg.cc/DzXBBqkQ/Maven-project-3.png)](https://postimg.cc/XZnfvBvX)
+[![Maven-project-3.png](https://i.postimg.cc/0QDFpPQf/Maven-project-3.png)](https://postimg.cc/HcW6mGbc)
 
-[![Maven-project-4.png](https://i.postimg.cc/vmkCmYMh/Maven-project-4.png)](https://postimg.cc/f3782hVS)
+[![Maven-project-4.png](https://i.postimg.cc/RZwt5YNY/Maven-project-4.png)](https://postimg.cc/nXcrq0KK)
 
 В **Maven home path**, который обозначает путь к Maven, мы видим версию, которую использует Idea. Под строкой - собственно номер версии. Мы же себе устанавливали более новую версию.
 Поэтому сейчас нажимаем на три точки справа от пути, находим куда мы устанавливали Maven, выбираем файл, т.о. прописываем новый путь до Maven и нажимаем **ОК**. 
 
-[![Maven-project-5.png](https://i.postimg.cc/0NSbhkCm/Maven-project-5.png)](https://postimg.cc/sBVjhRqD)
+[![Maven-project-5.png](https://i.postimg.cc/bv3sqf8m/Maven-project-5.png)](https://postimg.cc/1gV9KT8F)
 
-[![Maven-project-6.png](https://i.postimg.cc/sxNwX19g/Maven-project-6.png)](https://postimg.cc/GTvkgL5W)
+[![Maven-project-6.png](https://i.postimg.cc/9Mk0qPDT/Maven-project-6.png)](https://postimg.cc/bDQp7tHN)
 
 Убеждаемся, что версия под строкой пути поменялась на новую, нажимаем **Apply** > **OK** и смело закрываем окно. Теперь можем дальше работать с проектом.
 ___
@@ -353,13 +353,13 @@ ___
 - Раскрываем папку **src**, далее папку **main**
 - Находим папку **Java** и в этой папке рассмотрим содержание файла App.java
 
-[![Maven-project-8.png](https://i.postimg.cc/Xv9z2PpL/Maven-project-8.png)](https://postimg.cc/4KNPyBvH)
+[![Maven-project-8.png](https://i.postimg.cc/cC8H7K3z/Maven-project-8.png)](https://postimg.cc/wRgggj05)
 
 Здесь расположен класс, который называется **App** (application), внутри которого находится метод **main**. Давайте попробуем его запустить. Для этого нажмите на зелёную стрелку слева от метода.
 
 Скорее всего вы столкнётесь с подобной ошибкой, которую мы сейчас решим и сэкономим кучу ваших будущих часов размышлений на тему "что не так в моём проекте"!
 
-[![Maven-project-7.png](https://i.postimg.cc/zDRMc36p/Maven-project-7.png)](https://postimg.cc/PNT2Lft8)
+[![Maven-project-7.png](https://i.postimg.cc/CMZHrmH3/Maven-project-7.png)](https://postimg.cc/Z0SdCPQH)
 
 А дело всё в том, что мы используем на своём проекте **Java версии 20**, она на время написания мною статьи новая, а по умолчанию используется **Java версии 5** (либо 1.5, что одно и тоже)!!!
 
@@ -374,10 +374,10 @@ ___
 ```
 - далее в левой панели на файле **pom.xml** нажимаем ПКМ и выбираем Maven > Reload Project
 
-[![Maven-project-9.png](https://i.postimg.cc/9fG7g6ZL/Maven-project-9.png)](https://postimg.cc/HJknVPSM)
+[![Maven-project-9.png](https://i.postimg.cc/Sx46sqF4/Maven-project-9.png)](https://postimg.cc/QH6942dY)
 
 Таким образом мы говорим Maven, что надо заново просканировать pom.xml, посмотреть какие изменения в нём произошли и собственно обновить наш проект.
 
 Снова идём в **App.java**, запускаем метод **main** и, если всё хорошо, то в консоли мы увидим **Hello world!**
 
-[![Maven-project-10.png](https://i.postimg.cc/KjNP4dJ9/Maven-project-10.png)](https://postimg.cc/tnsZMm0P)
+[![Maven-project-10.png](https://i.postimg.cc/KYvtPN8s/Maven-project-10.png)](https://postimg.cc/182gPD6p)
