@@ -372,6 +372,9 @@ ___
 <maven.compiler.source>20</maven.compiler.source>
 <maven.compiler.target>20</maven.compiler.target>
 ```
+
+[![Maven-project-11.png](https://i.postimg.cc/jSL4BTf4/Maven-project-11.png)](https://postimg.cc/68xZGDY8)
+
 - далее в левой панели на файле **pom.xml** нажимаем ПКМ и выбираем Maven > Reload Project
 
 [![Maven-project-9.png](https://i.postimg.cc/Sx46sqF4/Maven-project-9.png)](https://postimg.cc/QH6942dY)
