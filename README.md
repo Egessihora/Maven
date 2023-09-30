@@ -353,13 +353,13 @@ ___
 - Раскрываем папку **src**, далее папку **main**
 - Находим папку **Java** и в этой папке рассмотрим содержание файла App.java
 
-[![Maven-project-8.png](https://i.postimg.cc/cC8H7K3z/Maven-project-8.png)](https://postimg.cc/wRgggj05)
+[![Maven-project-8.png](https://i.postimg.cc/QMwkj7j4/Maven-project-8.png)](https://postimg.cc/kVNtcB6K)
 
 Здесь расположен класс, который называется **App** (application), внутри которого находится метод **main**. Давайте попробуем его запустить. Для этого нажмите на зелёную стрелку слева от метода.
 
 Скорее всего вы столкнётесь с подобной ошибкой, которую мы сейчас решим и сэкономим кучу ваших будущих часов размышлений на тему "что не так в моём проекте"!
 
-[![Maven-project-7.png](https://i.postimg.cc/CMZHrmH3/Maven-project-7.png)](https://postimg.cc/Z0SdCPQH)
+[![Maven-project-7.png](https://i.postimg.cc/g29WLSNm/Maven-project-7.png)](https://postimg.cc/6yhSDhkm)
 
 А дело всё в том, что мы используем на своём проекте **Java версии 20**, она на время написания мною статьи новая, а по умолчанию используется **Java версии 5** (либо 1.5, что одно и тоже)!!!
 
