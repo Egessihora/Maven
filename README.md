@@ -383,4 +383,6 @@ ___
 
 Снова идём в **App.java**, запускаем метод **main** и, если всё хорошо, то в консоли мы увидим **Hello world!**
 
-[![Maven-project-10.png](https://i.postimg.cc/KYvtPN8s/Maven-project-10.png)](https://postimg.cc/182gPD6p)
+[![Maven-project-10.png](https://i.postimg.cc/9f4V4D7w/Maven-project-10.png)](https://postimg.cc/WDPxCbSs)
+
+⬆️[Оглавление](#оглавление)
